@@ -14,7 +14,7 @@ This game allows users to play against the computer. The computer's choice is se
 - Dart SDK
 
 ## Installation
-1. Clone the repository: `git clone (https://github.com/muhammadumermemon/Rock-paper-scissors-dart.git)
+1. Clone the repository: `git clone https://github.com/muhammadumerbinfarooq/Rock-paper-scissors-dart.git`
 2. Navigate to the project directory: `cd rock-paper-scissors-dart`
 3. Run the game: `dart rock_paper_scissors.dart`
 
